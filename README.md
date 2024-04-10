@@ -10,9 +10,9 @@ Data Storage: Stores the collected data in MongoDB which is a document database 
 Streamlit Interface: Provides a user-friendly interface powered by Streamlit for querying and analyzing the stored data. 
 
 Tools Used:
-Python
-MongoDB
-PostgreSQL
-Streamlit
+1. Python
+2. MongoDB
+3. PostgreSQL
+4. Streamlit
 
 
