@@ -15,4 +15,12 @@ Tools Used:
 3. PostgreSQL
 4. Streamlit
 
+User Guide
+Step 1. Data collection 
+•	Search channel_id, copy and paste on the input box and click the collect and stored button in the Data collection step.
+Step 2. Data Migration
+•	Select the channel name and click the Migrate to MySQL button to migrate the specific channel data to the MySQL database from MongoDB in the Data Migration step.
+Step 3. Channel Data Analysis
+•	Select a Question from the dropdown option so that the queries can be analysed you can get the results
+
 
